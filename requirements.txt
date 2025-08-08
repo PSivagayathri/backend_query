@@ -18,7 +18,7 @@ uvicorn[standard]==0.22.0
 pydantic==1.10.12
 python-multipart==0.0.6
 requests==2.31.0
-PyMuPDF==1.22.5
+PyMuPDF==1.21.1
 python-docx==0.8.11
 numpy==1.26.4
 sentence-transformers==2.2.2
