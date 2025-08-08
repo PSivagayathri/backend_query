@@ -25,9 +25,8 @@ sentence-transformers==2.2.2
 faiss-cpu==1.7.4
 groq==0.13.1
 psycopg2-binary==2.9.6
-python-magic==0.4.27
+python-magic-bin
 python-dotenv==1.0.0
-
 
 
 
